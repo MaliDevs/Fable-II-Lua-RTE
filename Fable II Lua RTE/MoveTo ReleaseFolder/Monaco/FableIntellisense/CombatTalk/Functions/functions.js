@@ -1,0 +1,10 @@
+AddIntellisense("AddOverride", "Function", "Function in CombatTalk.", "AddOverride()", "CombatTalk", "CombatTalk.AddOverride");
+AddIntellisense("AreAnyCombatCommentsPlaying", "Function", "Function in CombatTalk.", "AreAnyCombatCommentsPlaying()", "CombatTalk", "CombatTalk.AreAnyCombatCommentsPlaying");
+AddIntellisense("ClearOverrides", "Function", "Function in CombatTalk.", "ClearOverrides()", "CombatTalk", "CombatTalk.ClearOverrides");
+AddIntellisense("IsAvailable", "Function", "Function in CombatTalk.", "IsAvailable()", "CombatTalk", "CombatTalk.IsAvailable");
+AddIntellisense("OverrideTimeBetweenComments", "Function", "Function in CombatTalk.", "OverrideTimeBetweenComments()", "CombatTalk", "CombatTalk.OverrideTimeBetweenComments");
+AddIntellisense("SetCanCombatTalk", "Function", "Function in CombatTalk.", "SetCanCombatTalk()", "CombatTalk", "CombatTalk.SetCanCombatTalk");
+AddIntellisense("SetCanRepeatLines", "Function", "Function in CombatTalk.", "SetCanRepeatLines()", "CombatTalk", "CombatTalk.SetCanRepeatLines");
+AddIntellisense("SetCanTalkOverOthers", "Function", "Function in CombatTalk.", "SetCanTalkOverOthers()", "CombatTalk", "CombatTalk.SetCanTalkOverOthers");
+AddIntellisense("SetCombatCommentTweenTime", "Function", "Function in CombatTalk.", "SetCombatCommentTweenTime()", "CombatTalk", "CombatTalk.SetCombatCommentTweenTime");
+AddIntellisense("WaitForECTalk", "Function", "Function in CombatTalk.", "WaitForECTalk()", "CombatTalk", "CombatTalk.WaitForECTalk");

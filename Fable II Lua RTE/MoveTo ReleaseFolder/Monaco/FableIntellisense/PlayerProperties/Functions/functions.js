@@ -1,0 +1,9 @@
+AddIntellisense("DoesPlayerOwnAEmptyHouseInThisLevel", "Function", "Function in PlayerProperties.", "DoesPlayerOwnAEmptyHouseInThisLevel()", "PlayerProperties", "PlayerProperties.DoesPlayerOwnAEmptyHouseInThisLevel");
+AddIntellisense("GetIsRentalProperty", "Function", "Function in PlayerProperties.", "GetIsRentalProperty()", "PlayerProperties", "PlayerProperties.GetIsRentalProperty");
+AddIntellisense("GetNumberOfPropertiesOwned", "Function", "Function in PlayerProperties.", "GetNumberOfPropertiesOwned()", "PlayerProperties", "PlayerProperties.GetNumberOfPropertiesOwned");
+AddIntellisense("GetNumberOfPropertiesOwnedInLevel", "Function", "Function in PlayerProperties.", "GetNumberOfPropertiesOwnedInLevel()", "PlayerProperties", "PlayerProperties.GetNumberOfPropertiesOwnedInLevel");
+AddIntellisense("GetTextTagForAppropriateHomeForMarriage", "Function", "Function in PlayerProperties.", "GetTextTagForAppropriateHomeForMarriage()", "PlayerProperties", "PlayerProperties.GetTextTagForAppropriateHomeForMarriage");
+AddIntellisense("IsOwnedByPlayer", "Function", "Function in PlayerProperties.", "IsOwnedByPlayer()", "PlayerProperties", "PlayerProperties.IsOwnedByPlayer");
+AddIntellisense("PurchaseProperty", "Function", "Function in PlayerProperties.", "PurchaseProperty()", "PlayerProperties", "PlayerProperties.PurchaseProperty");
+AddIntellisense("PurchasePropertyQuietly", "Function", "Function in PlayerProperties.", "PurchasePropertyQuietly()", "PlayerProperties", "PlayerProperties.PurchasePropertyQuietly");
+AddIntellisense("SetTrailToMostAppropriateHomeForMarriage", "Function", "Function in PlayerProperties.", "SetTrailToMostAppropriateHomeForMarriage()", "PlayerProperties", "PlayerProperties.SetTrailToMostAppropriateHomeForMarriage");

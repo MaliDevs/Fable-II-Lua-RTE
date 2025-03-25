@@ -1,0 +1,11 @@
+AddIntellisense("SetAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetAxis");
+AddIntellisense("SetDogAttractivenessAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetDogAttractivenessAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetDogAttractivenessAxis");
+AddIntellisense("SetDogFearAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetDogFearAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetDogFearAxis");
+AddIntellisense("SetDogLoveAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetDogLoveAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetDogLoveAxis");
+AddIntellisense("SetDogMoralityAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetDogMoralityAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetDogMoralityAxis");
+AddIntellisense("SetDogRidiculousnessAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetDogRidiculousnessAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetDogRidiculousnessAxis");
+AddIntellisense("SetPlayerAttractivenessAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetPlayerAttractivenessAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetPlayerAttractivenessAxis");
+AddIntellisense("SetPlayerFearAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetPlayerFearAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetPlayerFearAxis");
+AddIntellisense("SetPlayerLoveAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetPlayerLoveAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetPlayerLoveAxis");
+AddIntellisense("SetPlayerMoralityAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetPlayerMoralityAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetPlayerMoralityAxis");
+AddIntellisense("SetPlayerRidiculousnessAxis", "Function", "Function in DebugOpinionReactionFunctions.", "SetPlayerRidiculousnessAxis()", "DebugOpinionReactionFunctions", "DebugOpinionReactionFunctions.SetPlayerRidiculousnessAxis");

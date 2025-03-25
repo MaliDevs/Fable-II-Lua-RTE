@@ -1,0 +1,9 @@
+AddIntellisense("byte", "Function", "Function in string.", "byte()", "string", "string.byte");
+AddIntellisense("char", "Function", "Function in string.", "char()", "string", "string.char");
+AddIntellisense("dump", "Function", "Function in string.", "dump()", "string", "string.dump");
+AddIntellisense("find", "Function", "Function in string.", "find()", "string", "string.find");
+AddIntellisense("format", "Function", "Function in string.", "format()", "string", "string.format");
+AddIntellisense("len", "Function", "Function in string.", "len()", "string", "string.len");
+AddIntellisense("lower", "Function", "Function in string.", "lower()", "string", "string.lower");
+AddIntellisense("match", "Function", "Function in string.", "match()", "string", "string.match");
+AddIntellisense("sub", "Function", "Function in string.", "sub()", "string", "string.sub");

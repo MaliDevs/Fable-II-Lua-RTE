@@ -1,0 +1,13 @@
+AddIntellisense("AddTargetForMultiShot", "Function", "Function in ScriptControlledTargeting.", "AddTargetForMultiShot()", "ScriptControlledTargeting", "ScriptControlledTargeting.AddTargetForMultiShot");
+AddIntellisense("Clear", "Function", "Function in ScriptControlledTargeting.", "Clear()", "ScriptControlledTargeting", "ScriptControlledTargeting.Clear");
+AddIntellisense("GetAttackData", "Function", "Function in ScriptControlledTargeting.", "GetAttackData()", "ScriptControlledTargeting", "ScriptControlledTargeting.GetAttackData");
+AddIntellisense("GetNumberOfHollowMen", "Function", "Function in ScriptControlledTargeting.", "GetNumberOfHollowMen()", "ScriptControlledTargeting", "ScriptControlledTargeting.GetNumberOfHollowMen");
+AddIntellisense("GetTargets", "Function", "Function in ScriptControlledTargeting.", "GetTargets()", "ScriptControlledTargeting", "ScriptControlledTargeting.GetTargets");
+AddIntellisense("HasScriptControlledTarget", "Function", "Function in ScriptControlledTargeting.", "HasScriptControlledTarget()", "ScriptControlledTargeting", "ScriptControlledTargeting.HasScriptControlledTarget");
+AddIntellisense("IsAvailable", "Function", "Function in ScriptControlledTargeting.", "IsAvailable()", "ScriptControlledTargeting", "ScriptControlledTargeting.IsAvailable");
+AddIntellisense("IsReadyForNextAction", "Function", "Function in ScriptControlledTargeting.", "IsReadyForNextAction()", "ScriptControlledTargeting", "ScriptControlledTargeting.IsReadyForNextAction");
+AddIntellisense("SetRangedAttack", "Function", "Function in ScriptControlledTargeting.", "SetRangedAttack()", "ScriptControlledTargeting", "ScriptControlledTargeting.SetRangedAttack");
+AddIntellisense("SetReadyForMultiShot", "Function", "Function in ScriptControlledTargeting.", "SetReadyForMultiShot()", "ScriptControlledTargeting", "ScriptControlledTargeting.SetReadyForMultiShot");
+AddIntellisense("SetReaverMultiShot", "Function", "Function in ScriptControlledTargeting.", "SetReaverMultiShot()", "ScriptControlledTargeting", "ScriptControlledTargeting.SetReaverMultiShot");
+AddIntellisense("SetSpellAttack", "Function", "Function in ScriptControlledTargeting.", "SetSpellAttack()", "ScriptControlledTargeting", "ScriptControlledTargeting.SetSpellAttack");
+AddIntellisense("UseCorneliusGrimRaise", "Function", "Function in ScriptControlledTargeting.", "UseCorneliusGrimRaise()", "ScriptControlledTargeting", "ScriptControlledTargeting.UseCorneliusGrimRaise");

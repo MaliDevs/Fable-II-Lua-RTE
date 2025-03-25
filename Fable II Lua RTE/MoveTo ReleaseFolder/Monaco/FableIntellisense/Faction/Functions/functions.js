@@ -1,0 +1,9 @@
+AddIntellisense("AddTemporaryEntityRelationship", "Function", "Function in Faction.", "AddTemporaryEntityRelationship()", "Faction", "Faction.AddTemporaryEntityRelationship");
+AddIntellisense("GetCurrentFaction", "Function", "Function in Faction.", "GetCurrentFaction()", "Faction", "Faction.GetCurrentFaction");
+AddIntellisense("GetECType", "Function", "Function in Faction.", "GetECType()", "Faction", "Faction.GetECType");
+AddIntellisense("IsAvailable", "Function", "Function in Faction.", "IsAvailable()", "Faction", "Faction.IsAvailable");
+AddIntellisense("IsMyAlly", "Function", "Function in Faction.", "IsMyAlly()", "Faction", "Faction.IsMyAlly");
+AddIntellisense("IsMyEnemy", "Function", "Function in Faction.", "IsMyEnemy()", "Faction", "Faction.IsMyEnemy");
+AddIntellisense("RemoveTemporaryEntityRelationship", "Function", "Function in Faction.", "RemoveTemporaryEntityRelationship()", "Faction", "Faction.RemoveTemporaryEntityRelationship");
+AddIntellisense("ResetCurrentFaction", "Function", "Function in Faction.", "ResetCurrentFaction()", "Faction", "Faction.ResetCurrentFaction");
+AddIntellisense("SetCurrentFaction", "Function", "Function in Faction.", "SetCurrentFaction()", "Faction", "Faction.SetCurrentFaction");

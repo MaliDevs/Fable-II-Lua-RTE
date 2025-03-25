@@ -1,0 +1,9 @@
+AddIntellisense("AddMode", "Function", "Function in ModeManager.", "AddMode()", "ModeManager", "ModeManager.AddMode");
+AddIntellisense("AddModeByEnum", "Function", "Function in ModeManager.", "AddModeByEnum()", "ModeManager", "ModeManager.AddModeByEnum");
+AddIntellisense("AddModeByEnumWithAnimGroupName", "Function", "Function in ModeManager.", "AddModeByEnumWithAnimGroupName()", "ModeManager", "ModeManager.AddModeByEnumWithAnimGroupName");
+AddIntellisense("AddModeWithAnimGroupName", "Function", "Function in ModeManager.", "AddModeWithAnimGroupName()", "ModeManager", "ModeManager.AddModeWithAnimGroupName");
+AddIntellisense("GetMaxMovementMetresPerSecondInDirection", "Function", "Function in ModeManager.", "GetMaxMovementMetresPerSecondInDirection()", "ModeManager", "ModeManager.GetMaxMovementMetresPerSecondInDirection");
+AddIntellisense("HasMode", "Function", "Function in ModeManager.", "HasMode()", "ModeManager", "ModeManager.HasMode");
+AddIntellisense("IsAvailable", "Function", "Function in ModeManager.", "IsAvailable()", "ModeManager", "ModeManager.IsAvailable");
+AddIntellisense("IsInHittableMode", "Function", "Function in ModeManager.", "IsInHittableMode()", "ModeManager", "ModeManager.IsInHittableMode");
+AddIntellisense("RemoveMode", "Function", "Function in ModeManager.", "RemoveMode()", "ModeManager", "ModeManager.RemoveMode");

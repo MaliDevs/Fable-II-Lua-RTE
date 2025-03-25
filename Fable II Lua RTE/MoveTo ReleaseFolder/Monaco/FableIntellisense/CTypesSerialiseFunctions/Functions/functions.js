@@ -1,0 +1,11 @@
+AddIntellisense("AnimationSimplePersist", "Function", "Function in CTypesSerialiseFunctions.", "AnimationSimplePersist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.AnimationSimplePersist");
+AddIntellisense("C2DBoxIPersist", "Function", "Function in CTypesSerialiseFunctions.", "C2DBoxIPersist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.C2DBoxIPersist");
+AddIntellisense("CI32Vector2Persist", "Function", "Function in CTypesSerialiseFunctions.", "CI32Vector2Persist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.CI32Vector2Persist");
+AddIntellisense("CVector3Persist", "Function", "Function in CTypesSerialiseFunctions.", "CVector3Persist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.CVector3Persist");
+AddIntellisense("CZoomerPersist", "Function", "Function in CTypesSerialiseFunctions.", "CZoomerPersist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.CZoomerPersist");
+AddIntellisense("EntityPersist", "Function", "Function in CTypesSerialiseFunctions.", "EntityPersist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.EntityPersist");
+AddIntellisense("InventoryItemPtrPersist", "Function", "Function in CTypesSerialiseFunctions.", "InventoryItemPtrPersist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.InventoryItemPtrPersist");
+AddIntellisense("LookAtHandlePersist", "Function", "Function in CTypesSerialiseFunctions.", "LookAtHandlePersist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.LookAtHandlePersist");
+AddIntellisense("MessageEventPersist", "Function", "Function in CTypesSerialiseFunctions.", "MessageEventPersist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.MessageEventPersist");
+AddIntellisense("RecordPtrPersist", "Function", "Function in CTypesSerialiseFunctions.", "RecordPtrPersist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.RecordPtrPersist");
+AddIntellisense("SearchHandlePersist", "Function", "Function in CTypesSerialiseFunctions.", "SearchHandlePersist()", "CTypesSerialiseFunctions", "CTypesSerialiseFunctions.SearchHandlePersist");

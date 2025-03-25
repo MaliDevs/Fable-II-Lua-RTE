@@ -1,0 +1,17 @@
+AddIntellisense("AttemptComboBreak", "Function", "Function in Action.", "AttemptComboBreak()", "Action", "Action.AttemptComboBreak");
+AddIntellisense("BreakSequence", "Function", "Function in Action.", "BreakSequence()", "Action", "Action.BreakSequence");
+AddIntellisense("FinishAllActions", "Function", "Function in Action.", "FinishAllActions()", "Action", "Action.FinishAllActions");
+AddIntellisense("FinishScriptedActions", "Function", "Function in Action.", "FinishScriptedActions()", "Action", "Action.FinishScriptedActions");
+AddIntellisense("GetCurrentAnimName", "Function", "Function in Action.", "GetCurrentAnimName()", "Action", "Action.GetCurrentAnimName");
+AddIntellisense("GetDummyObjectUsedInStrike", "Function", "Function in Action.", "GetDummyObjectUsedInStrike()", "Action", "Action.GetDummyObjectUsedInStrike");
+AddIntellisense("GetECType", "Function", "Function in Action.", "GetECType()", "Action", "Action.GetECType");
+AddIntellisense("GetPriorityOfCurrentAction", "Function", "Function in Action.", "GetPriorityOfCurrentAction()", "Action", "Action.GetPriorityOfCurrentAction");
+AddIntellisense("GetTheoreticalPositionAtEndOfAnim", "Function", "Function in Action.", "GetTheoreticalPositionAtEndOfAnim()", "Action", "Action.GetTheoreticalPositionAtEndOfAnim");
+AddIntellisense("IsActionPluggedIn", "Function", "Function in Action.", "IsActionPluggedIn()", "Action", "Action.IsActionPluggedIn");
+AddIntellisense("IsAttackingViaAction", "Function", "Function in Action.", "IsAttackingViaAction()", "Action", "Action.IsAttackingViaAction");
+AddIntellisense("IsAvailable", "Function", "Function in Action.", "IsAvailable()", "Action", "Action.IsAvailable");
+AddIntellisense("IsInSequencePrelude", "Function", "Function in Action.", "IsInSequencePrelude()", "Action", "Action.IsInSequencePrelude");
+AddIntellisense("IsMovingViaAction", "Function", "Function in Action.", "IsMovingViaAction()", "Action", "Action.IsMovingViaAction");
+AddIntellisense("IsPerformingAnyAction", "Function", "Function in Action.", "IsPerformingAnyAction()", "Action", "Action.IsPerformingAnyAction");
+AddIntellisense("SetCanVaultAnywhere", "Function", "Function in Action.", "SetCanVaultAnywhere()", "Action", "Action.SetCanVaultAnywhere");
+AddIntellisense("SetCurrentAction", "Function", "Function in Action.", "SetCurrentAction()", "Action", "Action.SetCurrentAction");

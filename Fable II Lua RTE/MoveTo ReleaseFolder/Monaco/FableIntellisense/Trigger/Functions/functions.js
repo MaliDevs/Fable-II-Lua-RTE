@@ -1,0 +1,11 @@
+AddIntellisense("AreAllTriggerEntitiesInsideTriggerVolume", "Function", "Function in Trigger.", "AreAllTriggerEntitiesInsideTriggerVolume()", "Trigger", "Trigger.AreAllTriggerEntitiesInsideTriggerVolume");
+AddIntellisense("GetBoundingRadius", "Function", "Function in Trigger.", "GetBoundingRadius()", "Trigger", "Trigger.GetBoundingRadius");
+AddIntellisense("GetNumberOfCreaturesOfTypeInsideTriggerVolume", "Function", "Function in Trigger.", "GetNumberOfCreaturesOfTypeInsideTriggerVolume()", "Trigger", "Trigger.GetNumberOfCreaturesOfTypeInsideTriggerVolume");
+AddIntellisense("IsAnyTriggerEntityInsideTriggerVolume", "Function", "Function in Trigger.", "IsAnyTriggerEntityInsideTriggerVolume()", "Trigger", "Trigger.IsAnyTriggerEntityInsideTriggerVolume");
+AddIntellisense("IsAvailable", "Function", "Function in Trigger.", "IsAvailable()", "Trigger", "Trigger.IsAvailable");
+AddIntellisense("IsSpecificEntityInsideTriggerVolume", "Function", "Function in Trigger.", "IsSpecificEntityInsideTriggerVolume()", "Trigger", "Trigger.IsSpecificEntityInsideTriggerVolume");
+AddIntellisense("IsSpecificTriggerEntityInsideTriggerVolume", "Function", "Function in Trigger.", "IsSpecificTriggerEntityInsideTriggerVolume()", "Trigger", "Trigger.IsSpecificTriggerEntityInsideTriggerVolume");
+AddIntellisense("IsTriggerEntityInsideTriggerVolume", "Function", "Function in Trigger.", "IsTriggerEntityInsideTriggerVolume()", "Trigger", "Trigger.IsTriggerEntityInsideTriggerVolume");
+AddIntellisense("SetAsActive", "Function", "Function in Trigger.", "SetAsActive()", "Trigger", "Trigger.SetAsActive");
+AddIntellisense("SetToTriggerOnAnyEntity", "Function", "Function in Trigger.", "SetToTriggerOnAnyEntity()", "Trigger", "Trigger.SetToTriggerOnAnyEntity");
+AddIntellisense("SetToTriggerOnSpecificEntity", "Function", "Function in Trigger.", "SetToTriggerOnSpecificEntity()", "Trigger", "Trigger.SetToTriggerOnSpecificEntity");

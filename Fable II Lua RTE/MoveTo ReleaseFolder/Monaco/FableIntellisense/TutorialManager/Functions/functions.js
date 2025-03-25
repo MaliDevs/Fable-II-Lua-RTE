@@ -1,0 +1,11 @@
+AddIntellisense("CompleteTutorial", "Function", "Function in TutorialManager.", "CompleteTutorial()", "TutorialManager", "TutorialManager.CompleteTutorial");
+AddIntellisense("DisplayTutorial", "Function", "Function in TutorialManager.", "DisplayTutorial()", "TutorialManager", "TutorialManager.DisplayTutorial");
+AddIntellisense("HasDisplayedTutorial", "Function", "Function in TutorialManager.", "HasDisplayedTutorial()", "TutorialManager", "TutorialManager.HasDisplayedTutorial");
+AddIntellisense("ResetTutorial", "Function", "Function in TutorialManager.", "ResetTutorial()", "TutorialManager", "TutorialManager.ResetTutorial");
+AddIntellisense("SetToPlayAbilityScreenTutorials", "Function", "Function in TutorialManager.", "SetToPlayAbilityScreenTutorials()", "TutorialManager", "TutorialManager.SetToPlayAbilityScreenTutorials");
+AddIntellisense("SetToPlayMapScreenTutorials", "Function", "Function in TutorialManager.", "SetToPlayMapScreenTutorials()", "TutorialManager", "TutorialManager.SetToPlayMapScreenTutorials");
+AddIntellisense("SetToPlayNewExpressionLearnedTutorials", "Function", "Function in TutorialManager.", "SetToPlayNewExpressionLearnedTutorials()", "TutorialManager", "TutorialManager.SetToPlayNewExpressionLearnedTutorials");
+AddIntellisense("SetToPlayTutorialAudio", "Function", "Function in TutorialManager.", "SetToPlayTutorialAudio()", "TutorialManager", "TutorialManager.SetToPlayTutorialAudio");
+AddIntellisense("SetTutorialAsHighPriority", "Function", "Function in TutorialManager.", "SetTutorialAsHighPriority()", "TutorialManager", "TutorialManager.SetTutorialAsHighPriority");
+AddIntellisense("SetTutorialsEnabled", "Function", "Function in TutorialManager.", "SetTutorialsEnabled()", "TutorialManager", "TutorialManager.SetTutorialsEnabled");
+AddIntellisense("StopTutorial", "Function", "Function in TutorialManager.", "StopTutorial()", "TutorialManager", "TutorialManager.StopTutorial");

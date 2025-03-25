@@ -1,0 +1,17 @@
+AddIntellisense("CantDie", "Function", "Function in Health.", "CantDie()", "Health", "Health.CantDie");
+AddIntellisense("DoneDebugDraw", "Function", "Function in Health.", "DoneDebugDraw()", "Health", "Health.DoneDebugDraw");
+AddIntellisense("Get", "Function", "Function in Health.", "Get()", "Health", "Health.Get");
+AddIntellisense("GetBase", "Function", "Function in Health.", "GetBase()", "Health", "Health.GetBase");
+AddIntellisense("GetDeltaSinceLastDebugDraw", "Function", "Function in Health.", "GetDeltaSinceLastDebugDraw()", "Health", "Health.GetDeltaSinceLastDebugDraw");
+AddIntellisense("GetFrameLastChanged", "Function", "Function in Health.", "GetFrameLastChanged()", "Health", "Health.GetFrameLastChanged");
+AddIntellisense("GetMax", "Function", "Function in Health.", "GetMax()", "Health", "Health.GetMax");
+AddIntellisense("IsAvailable", "Function", "Function in Health.", "IsAvailable()", "Health", "Health.IsAvailable");
+AddIntellisense("IsInvulnerable", "Function", "Function in Health.", "IsInvulnerable()", "Health", "Health.IsInvulnerable");
+AddIntellisense("Modify", "Function", "Function in Health.", "Modify()", "Health", "Health.Modify");
+AddIntellisense("ModifyOverTime", "Function", "Function in Health.", "ModifyOverTime()", "Health", "Health.ModifyOverTime");
+AddIntellisense("OverrideHealthSetting", "Function", "Function in Health.", "OverrideHealthSetting()", "Health", "Health.OverrideHealthSetting");
+AddIntellisense("SetAsInvulnerable", "Function", "Function in Health.", "SetAsInvulnerable()", "Health", "Health.SetAsInvulnerable");
+AddIntellisense("SetCantDie", "Function", "Function in Health.", "SetCantDie()", "Health", "Health.SetCantDie");
+AddIntellisense("SetEntityAsDamageableByEntity", "Function", "Function in Health.", "SetEntityAsDamageableByEntity()", "Health", "Health.SetEntityAsDamageableByEntity");
+AddIntellisense("SetMax", "Function", "Function in Health.", "SetMax()", "Health", "Health.SetMax");
+AddIntellisense("SetRegeneration", "Function", "Function in Health.", "SetRegeneration()", "Health", "Health.SetRegeneration");

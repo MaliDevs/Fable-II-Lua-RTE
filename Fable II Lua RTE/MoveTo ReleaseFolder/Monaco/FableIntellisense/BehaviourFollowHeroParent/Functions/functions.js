@@ -1,0 +1,1 @@
+AddIntellisense("MakeSuggestionToParent", "Function", "Function in BehaviourFollowHeroParent.", "MakeSuggestionToParent()", "BehaviourFollowHeroParent", "BehaviourFollowHeroParent.MakeSuggestionToParent");

@@ -1,0 +1,10 @@
+AddIntellisense("DoEfficiencyTopBox", "Function", "Function in Experience.", "DoEfficiencyTopBox()", "Experience", "Experience.DoEfficiencyTopBox");
+AddIntellisense("Drain", "Function", "Function in Experience.", "Drain()", "Experience", "Experience.Drain");
+AddIntellisense("EffeciencyScoreAvailable", "Function", "Function in Experience.", "EffeciencyScoreAvailable()", "Experience", "Experience.EffeciencyScoreAvailable");
+AddIntellisense("Get", "Function", "Function in Experience.", "Get()", "Experience", "Experience.Get");
+AddIntellisense("GetEffeciencyScore", "Function", "Function in Experience.", "GetEffeciencyScore()", "Experience", "Experience.GetEffeciencyScore");
+AddIntellisense("GetTotalEarned", "Function", "Function in Experience.", "GetTotalEarned()", "Experience", "Experience.GetTotalEarned");
+AddIntellisense("IsAvailable", "Function", "Function in Experience.", "IsAvailable()", "Experience", "Experience.IsAvailable");
+AddIntellisense("Modify", "Function", "Function in Experience.", "Modify()", "Experience", "Experience.Modify");
+AddIntellisense("ResetEffeciencyCacluation", "Function", "Function in Experience.", "ResetEffeciencyCacluation()", "Experience", "Experience.ResetEffeciencyCacluation");
+AddIntellisense("SetCollectionMultiplier", "Function", "Function in Experience.", "SetCollectionMultiplier()", "Experience", "Experience.SetCollectionMultiplier");

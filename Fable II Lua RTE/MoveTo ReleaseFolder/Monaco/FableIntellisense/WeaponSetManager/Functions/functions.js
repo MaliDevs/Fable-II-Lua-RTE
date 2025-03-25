@@ -1,0 +1,10 @@
+AddIntellisense("AddVigilanteWeapon", "Function", "Function in WeaponSetManager.", "AddVigilanteWeapon()", "WeaponSetManager", "WeaponSetManager.AddVigilanteWeapon");
+AddIntellisense("CreateSheathedWeapons", "Function", "Function in WeaponSetManager.", "CreateSheathedWeapons()", "WeaponSetManager", "WeaponSetManager.CreateSheathedWeapons");
+AddIntellisense("EquipWeapon", "Function", "Function in WeaponSetManager.", "EquipWeapon()", "WeaponSetManager", "WeaponSetManager.EquipWeapon");
+AddIntellisense("EquipWeaponOfType", "Function", "Function in WeaponSetManager.", "EquipWeaponOfType()", "WeaponSetManager", "WeaponSetManager.EquipWeaponOfType");
+AddIntellisense("HasMeleeWeapon", "Function", "Function in WeaponSetManager.", "HasMeleeWeapon()", "WeaponSetManager", "WeaponSetManager.HasMeleeWeapon");
+AddIntellisense("HasRangedWeapon", "Function", "Function in WeaponSetManager.", "HasRangedWeapon()", "WeaponSetManager", "WeaponSetManager.HasRangedWeapon");
+AddIntellisense("IsArmed", "Function", "Function in WeaponSetManager.", "IsArmed()", "WeaponSetManager", "WeaponSetManager.IsArmed");
+AddIntellisense("IsAvailable", "Function", "Function in WeaponSetManager.", "IsAvailable()", "WeaponSetManager", "WeaponSetManager.IsAvailable");
+AddIntellisense("RecoverLostWeapon", "Function", "Function in WeaponSetManager.", "RecoverLostWeapon()", "WeaponSetManager", "WeaponSetManager.RecoverLostWeapon");
+AddIntellisense("SelectInitialWeapon", "Function", "Function in WeaponSetManager.", "SelectInitialWeapon()", "WeaponSetManager", "WeaponSetManager.SelectInitialWeapon");

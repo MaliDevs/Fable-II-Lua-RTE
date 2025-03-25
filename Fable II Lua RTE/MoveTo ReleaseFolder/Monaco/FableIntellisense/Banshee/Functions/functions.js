@@ -1,0 +1,10 @@
+AddIntellisense("GetBansheeTarget", "Function", "Function in Banshee.", "GetBansheeTarget()", "Banshee", "Banshee.GetBansheeTarget");
+AddIntellisense("GetDestination", "Function", "Function in Banshee.", "GetDestination()", "Banshee", "Banshee.GetDestination");
+AddIntellisense("GetMyWisp", "Function", "Function in Banshee.", "GetMyWisp()", "Banshee", "Banshee.GetMyWisp");
+AddIntellisense("IsAvailable", "Function", "Function in Banshee.", "IsAvailable()", "Banshee", "Banshee.IsAvailable");
+AddIntellisense("IsFading", "Function", "Function in Banshee.", "IsFading()", "Banshee", "Banshee.IsFading");
+AddIntellisense("SetSidewaysMode", "Function", "Function in Banshee.", "SetSidewaysMode()", "Banshee", "Banshee.SetSidewaysMode");
+AddIntellisense("SetSpeed", "Function", "Function in Banshee.", "SetSpeed()", "Banshee", "Banshee.SetSpeed");
+AddIntellisense("SetTargetEntity", "Function", "Function in Banshee.", "SetTargetEntity()", "Banshee", "Banshee.SetTargetEntity");
+AddIntellisense("SetVulnerable", "Function", "Function in Banshee.", "SetVulnerable()", "Banshee", "Banshee.SetVulnerable");
+AddIntellisense("StartFading", "Function", "Function in Banshee.", "StartFading()", "Banshee", "Banshee.StartFading");

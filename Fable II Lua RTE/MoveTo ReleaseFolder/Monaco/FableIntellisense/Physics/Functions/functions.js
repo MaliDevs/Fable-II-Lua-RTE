@@ -1,0 +1,14 @@
+AddIntellisense("GetFacingVector", "Function", "Function in Physics.", "GetFacingVector()", "Physics", "Physics.GetFacingVector");
+AddIntellisense("GetRadius", "Function", "Function in Physics.", "GetRadius()", "Physics", "Physics.GetRadius");
+AddIntellisense("GetVelocity", "Function", "Function in Physics.", "GetVelocity()", "Physics", "Physics.GetVelocity");
+AddIntellisense("IsAvailable", "Function", "Function in Physics.", "IsAvailable()", "Physics", "Physics.IsAvailable");
+AddIntellisense("IsSliding", "Function", "Function in Physics.", "IsSliding()", "Physics", "Physics.IsSliding");
+AddIntellisense("ResetFacingVector", "Function", "Function in Physics.", "ResetFacingVector()", "Physics", "Physics.ResetFacingVector");
+AddIntellisense("SetCanBePushedByPlayer", "Function", "Function in Physics.", "SetCanBePushedByPlayer()", "Physics", "Physics.SetCanBePushedByPlayer");
+AddIntellisense("SetCanCollideWithEntity", "Function", "Function in Physics.", "SetCanCollideWithEntity()", "Physics", "Physics.SetCanCollideWithEntity");
+AddIntellisense("SetDynamic", "Function", "Function in Physics.", "SetDynamic()", "Physics", "Physics.SetDynamic");
+AddIntellisense("SetFacingVector", "Function", "Function in Physics.", "SetFacingVector()", "Physics", "Physics.SetFacingVector");
+AddIntellisense("SetIgnoresGravity", "Function", "Function in Physics.", "SetIgnoresGravity()", "Physics", "Physics.SetIgnoresGravity");
+AddIntellisense("SetUseHeightfieldTriangleExtrusion", "Function", "Function in Physics.", "SetUseHeightfieldTriangleExtrusion()", "Physics", "Physics.SetUseHeightfieldTriangleExtrusion");
+AddIntellisense("SetVelocity", "Function", "Function in Physics.", "SetVelocity()", "Physics", "Physics.SetVelocity");
+AddIntellisense("TeleportToPosition", "Function", "Function in Physics.", "TeleportToPosition()", "Physics", "Physics.TeleportToPosition");

@@ -1,0 +1,9 @@
+AddIntellisense("IsAvailable", "Function", "Function in Sound.", "IsAvailable()", "Sound", "Sound.IsAvailable");
+AddIntellisense("IsSoundCategoryPlaying", "Function", "Function in Sound.", "IsSoundCategoryPlaying()", "Sound", "Sound.IsSoundCategoryPlaying");
+AddIntellisense("PlayEvent", "Function", "Function in Sound.", "PlayEvent()", "Sound", "Sound.PlayEvent");
+AddIntellisense("PlayEventAtPitch", "Function", "Function in Sound.", "PlayEventAtPitch()", "Sound", "Sound.PlayEventAtPitch");
+AddIntellisense("PlayEventSerialised", "Function", "Function in Sound.", "PlayEventSerialised()", "Sound", "Sound.PlayEventSerialised");
+AddIntellisense("SetPitchForSoundCategory", "Function", "Function in Sound.", "SetPitchForSoundCategory()", "Sound", "Sound.SetPitchForSoundCategory");
+AddIntellisense("SetSoundEffectVolume", "Function", "Function in Sound.", "SetSoundEffectVolume()", "Sound", "Sound.SetSoundEffectVolume");
+AddIntellisense("SetSoundVariableValue", "Function", "Function in Sound.", "SetSoundVariableValue()", "Sound", "Sound.SetSoundVariableValue");
+AddIntellisense("StopSoundCategoryPlaying", "Function", "Function in Sound.", "StopSoundCategoryPlaying()", "Sound", "Sound.StopSoundCategoryPlaying");

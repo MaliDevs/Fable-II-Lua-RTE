@@ -1,0 +1,13 @@
+AddIntellisense("GetAllValidRegionDisplayTextTagsForCoach", "Function", "Function in FastTravel.", "GetAllValidRegionDisplayTextTagsForCoach()", "FastTravel", "FastTravel.GetAllValidRegionDisplayTextTagsForCoach");
+AddIntellisense("GetAllValidRegionDisplayTextTagsForShip", "Function", "Function in FastTravel.", "GetAllValidRegionDisplayTextTagsForShip()", "FastTravel", "FastTravel.GetAllValidRegionDisplayTextTagsForShip");
+AddIntellisense("GetAllValidRegionNameTagsForCoach", "Function", "Function in FastTravel.", "GetAllValidRegionNameTagsForCoach()", "FastTravel", "FastTravel.GetAllValidRegionNameTagsForCoach");
+AddIntellisense("GetAllValidRegionNameTagsForShip", "Function", "Function in FastTravel.", "GetAllValidRegionNameTagsForShip()", "FastTravel", "FastTravel.GetAllValidRegionNameTagsForShip");
+AddIntellisense("GetCoachStopForRegion", "Function", "Function in FastTravel.", "GetCoachStopForRegion()", "FastTravel", "FastTravel.GetCoachStopForRegion");
+AddIntellisense("GetShipStopForRegion", "Function", "Function in FastTravel.", "GetShipStopForRegion()", "FastTravel", "FastTravel.GetShipStopForRegion");
+AddIntellisense("IsStopActive", "Function", "Function in FastTravel.", "IsStopActive()", "FastTravel", "FastTravel.IsStopActive");
+AddIntellisense("SetAsEnabled", "Function", "Function in FastTravel.", "SetAsEnabled()", "FastTravel", "FastTravel.SetAsEnabled");
+AddIntellisense("SetBlockedTextTag", "Function", "Function in FastTravel.", "SetBlockedTextTag()", "FastTravel", "FastTravel.SetBlockedTextTag");
+AddIntellisense("SetRegionBlockedTextTag", "Function", "Function in FastTravel.", "SetRegionBlockedTextTag()", "FastTravel", "FastTravel.SetRegionBlockedTextTag");
+AddIntellisense("SetStopAsActive", "Function", "Function in FastTravel.", "SetStopAsActive()", "FastTravel", "FastTravel.SetStopAsActive");
+AddIntellisense("SetStopBlockedTextTag", "Function", "Function in FastTravel.", "SetStopBlockedTextTag()", "FastTravel", "FastTravel.SetStopBlockedTextTag");
+AddIntellisense("TravelToStopInRegion", "Function", "Function in FastTravel.", "TravelToStopInRegion()", "FastTravel", "FastTravel.TravelToStopInRegion");

@@ -1,0 +1,9 @@
+AddIntellisense("IsFinished", "Function", "Function in FlitSwitch.", "IsFinished()", "FlitSwitch", "FlitSwitch.IsFinished");
+AddIntellisense("IsMovingToDestination", "Function", "Function in FlitSwitch.", "IsMovingToDestination()", "FlitSwitch", "FlitSwitch.IsMovingToDestination");
+AddIntellisense("IsWaitingForHit", "Function", "Function in FlitSwitch.", "IsWaitingForHit()", "FlitSwitch", "FlitSwitch.IsWaitingForHit");
+AddIntellisense("SetAsWaitingForHitOfType", "Function", "Function in FlitSwitch.", "SetAsWaitingForHitOfType()", "FlitSwitch", "FlitSwitch.SetAsWaitingForHitOfType");
+AddIntellisense("SetAsWaitingForMeleeHit", "Function", "Function in FlitSwitch.", "SetAsWaitingForMeleeHit()", "FlitSwitch", "FlitSwitch.SetAsWaitingForMeleeHit");
+AddIntellisense("SetAsWaitingForRangedHit", "Function", "Function in FlitSwitch.", "SetAsWaitingForRangedHit()", "FlitSwitch", "FlitSwitch.SetAsWaitingForRangedHit");
+AddIntellisense("SetAsWaitingForSpellHit", "Function", "Function in FlitSwitch.", "SetAsWaitingForSpellHit()", "FlitSwitch", "FlitSwitch.SetAsWaitingForSpellHit");
+AddIntellisense("SetDestinationMarker", "Function", "Function in FlitSwitch.", "SetDestinationMarker()", "FlitSwitch", "FlitSwitch.SetDestinationMarker");
+AddIntellisense("SetMesh", "Function", "Function in FlitSwitch.", "SetMesh()", "FlitSwitch", "FlitSwitch.SetMesh");

@@ -1,0 +1,4 @@
+AddIntellisense("CreateNamedElectricArcSource", "Function", "Function in ElectricArcManager.", "CreateNamedElectricArcSource()", "ElectricArcManager", "ElectricArcManager.CreateNamedElectricArcSource");
+AddIntellisense("CreateNamedEntityDummyEndPointsArc", "Function", "Function in ElectricArcManager.", "CreateNamedEntityDummyEndPointsArc()", "ElectricArcManager", "ElectricArcManager.CreateNamedEntityDummyEndPointsArc");
+AddIntellisense("DestroyAllArcsByRefname", "Function", "Function in ElectricArcManager.", "DestroyAllArcsByRefname()", "ElectricArcManager", "ElectricArcManager.DestroyAllArcsByRefname");
+AddIntellisense("DestroyAllElectricArcSourcesByRefname", "Function", "Function in ElectricArcManager.", "DestroyAllElectricArcSourcesByRefname()", "ElectricArcManager", "ElectricArcManager.DestroyAllElectricArcSourcesByRefname");

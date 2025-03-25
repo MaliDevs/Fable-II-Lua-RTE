@@ -1,0 +1,10 @@
+AddIntellisense("IsDLCDownloaded", "Function", "Function in GameVersion.", "IsDLCDownloaded()", "GameVersion", "GameVersion.IsDLCDownloaded");
+AddIntellisense("IsDLCPremium", "Function", "Function in GameVersion.", "IsDLCPremium()", "GameVersion", "GameVersion.IsDLCPremium");
+AddIntellisense("IsHenchmanDLCPremium", "Function", "Function in GameVersion.", "IsHenchmanDLCPremium()", "GameVersion", "GameVersion.IsHenchmanDLCPremium");
+AddIntellisense("SetAllDLCsFree", "Function", "Function in GameVersion.", "SetAllDLCsFree()", "GameVersion", "GameVersion.SetAllDLCsFree");
+AddIntellisense("SetAllDLCsOff", "Function", "Function in GameVersion.", "SetAllDLCsOff()", "GameVersion", "GameVersion.SetAllDLCsOff");
+AddIntellisense("SetAllDLCsOn", "Function", "Function in GameVersion.", "SetAllDLCsOn()", "GameVersion", "GameVersion.SetAllDLCsOn");
+AddIntellisense("SetAllDLCsPremium", "Function", "Function in GameVersion.", "SetAllDLCsPremium()", "GameVersion", "GameVersion.SetAllDLCsPremium");
+AddIntellisense("SetDLCDownloadedStatus", "Function", "Function in GameVersion.", "SetDLCDownloadedStatus()", "GameVersion", "GameVersion.SetDLCDownloadedStatus");
+AddIntellisense("SetDLCPremiumStatus", "Function", "Function in GameVersion.", "SetDLCPremiumStatus()", "GameVersion", "GameVersion.SetDLCPremiumStatus");
+AddIntellisense("ToggleDisplayDebugInfo", "Function", "Function in GameVersion.", "ToggleDisplayDebugInfo()", "GameVersion", "GameVersion.ToggleDisplayDebugInfo");

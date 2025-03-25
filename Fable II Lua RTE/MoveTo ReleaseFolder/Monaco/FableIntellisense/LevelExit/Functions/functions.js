@@ -1,0 +1,10 @@
+AddIntellisense("GetECType", "Function", "Function in LevelExit.", "GetECType()", "LevelExit", "LevelExit.GetECType");
+AddIntellisense("GetRadius", "Function", "Function in LevelExit.", "GetRadius()", "LevelExit", "LevelExit.GetRadius");
+AddIntellisense("Interact", "Function", "Function in LevelExit.", "Interact()", "LevelExit", "LevelExit.Interact");
+AddIntellisense("IsActivatedOnInteraction", "Function", "Function in LevelExit.", "IsActivatedOnInteraction()", "LevelExit", "LevelExit.IsActivatedOnInteraction");
+AddIntellisense("IsActive", "Function", "Function in LevelExit.", "IsActive()", "LevelExit", "LevelExit.IsActive");
+AddIntellisense("IsAvailable", "Function", "Function in LevelExit.", "IsAvailable()", "LevelExit", "LevelExit.IsAvailable");
+AddIntellisense("IsConnectedToCurrentLevel", "Function", "Function in LevelExit.", "IsConnectedToCurrentLevel()", "LevelExit", "LevelExit.IsConnectedToCurrentLevel");
+AddIntellisense("SetAsActive", "Function", "Function in LevelExit.", "SetAsActive()", "LevelExit", "LevelExit.SetAsActive");
+AddIntellisense("SetAsRegionLocked", "Function", "Function in LevelExit.", "SetAsRegionLocked()", "LevelExit", "LevelExit.SetAsRegionLocked");
+AddIntellisense("SetTextTag", "Function", "Function in LevelExit.", "SetTextTag()", "LevelExit", "LevelExit.SetTextTag");

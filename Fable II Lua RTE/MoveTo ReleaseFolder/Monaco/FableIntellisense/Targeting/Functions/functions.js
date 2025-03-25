@@ -1,0 +1,16 @@
+AddIntellisense("CheckForBetterTargetInDirection", "Function", "Function in Targeting.", "CheckForBetterTargetInDirection()", "Targeting", "Targeting.CheckForBetterTargetInDirection");
+AddIntellisense("ClearLookAtAlert", "Function", "Function in Targeting.", "ClearLookAtAlert()", "Targeting", "Targeting.ClearLookAtAlert");
+AddIntellisense("ClearPointOfInterestTarget", "Function", "Function in Targeting.", "ClearPointOfInterestTarget()", "Targeting", "Targeting.ClearPointOfInterestTarget");
+AddIntellisense("GetCameraSafeTargetedPosition", "Function", "Function in Targeting.", "GetCameraSafeTargetedPosition()", "Targeting", "Targeting.GetCameraSafeTargetedPosition");
+AddIntellisense("GetInAiming", "Function", "Function in Targeting.", "GetInAiming()", "Targeting", "Targeting.GetInAiming");
+AddIntellisense("GetPointOfInterestData", "Function", "Function in Targeting.", "GetPointOfInterestData()", "Targeting", "Targeting.GetPointOfInterestData");
+AddIntellisense("GetPointOfInterestTarget", "Function", "Function in Targeting.", "GetPointOfInterestTarget()", "Targeting", "Targeting.GetPointOfInterestTarget");
+AddIntellisense("GetTarget", "Function", "Function in Targeting.", "GetTarget()", "Targeting", "Targeting.GetTarget");
+AddIntellisense("GetTargetedPosition", "Function", "Function in Targeting.", "GetTargetedPosition()", "Targeting", "Targeting.GetTargetedPosition");
+AddIntellisense("GetZoomLevel", "Function", "Function in Targeting.", "GetZoomLevel()", "Targeting", "Targeting.GetZoomLevel");
+AddIntellisense("IsAvailable", "Function", "Function in Targeting.", "IsAvailable()", "Targeting", "Targeting.IsAvailable");
+AddIntellisense("SetForceSoftTargetLock", "Function", "Function in Targeting.", "SetForceSoftTargetLock()", "Targeting", "Targeting.SetForceSoftTargetLock");
+AddIntellisense("SetInTargetingCamera", "Function", "Function in Targeting.", "SetInTargetingCamera()", "Targeting", "Targeting.SetInTargetingCamera");
+AddIntellisense("SetLookAtAlert", "Function", "Function in Targeting.", "SetLookAtAlert()", "Targeting", "Targeting.SetLookAtAlert");
+AddIntellisense("SetPointOfInterestTarget", "Function", "Function in Targeting.", "SetPointOfInterestTarget()", "Targeting", "Targeting.SetPointOfInterestTarget");
+AddIntellisense("SetTarget", "Function", "Function in Targeting.", "SetTarget()", "Targeting", "Targeting.SetTarget");

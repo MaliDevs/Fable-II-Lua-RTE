@@ -1,0 +1,11 @@
+AddIntellisense("GetECType", "Function", "Function in Chest.", "GetECType()", "Chest", "Chest.GetECType");
+AddIntellisense("GetNumberOfSilverKeysNeeded", "Function", "Function in Chest.", "GetNumberOfSilverKeysNeeded()", "Chest", "Chest.GetNumberOfSilverKeysNeeded");
+AddIntellisense("IsAvailable", "Function", "Function in Chest.", "IsAvailable()", "Chest", "Chest.IsAvailable");
+AddIntellisense("IsLocked", "Function", "Function in Chest.", "IsLocked()", "Chest", "Chest.IsLocked");
+AddIntellisense("IsOpen", "Function", "Function in Chest.", "IsOpen()", "Chest", "Chest.IsOpen");
+AddIntellisense("IsToDisplayLockedMessage", "Function", "Function in Chest.", "IsToDisplayLockedMessage()", "Chest", "Chest.IsToDisplayLockedMessage");
+AddIntellisense("Lock", "Function", "Function in Chest.", "Lock()", "Chest", "Chest.Lock");
+AddIntellisense("Open", "Function", "Function in Chest.", "Open()", "Chest", "Chest.Open");
+AddIntellisense("SetToDisplayLockedMessage", "Function", "Function in Chest.", "SetToDisplayLockedMessage()", "Chest", "Chest.SetToDisplayLockedMessage");
+AddIntellisense("SnapToClosed", "Function", "Function in Chest.", "SnapToClosed()", "Chest", "Chest.SnapToClosed");
+AddIntellisense("Unlock", "Function", "Function in Chest.", "Unlock()", "Chest", "Chest.Unlock");

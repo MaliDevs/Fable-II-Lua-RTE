@@ -1,0 +1,1 @@
+AddIntellisense("FillExpressionTable", "Function", "Function in BehaviourChildMiniExpression.", "FillExpressionTable()", "BehaviourChildMiniExpression", "BehaviourChildMiniExpression.FillExpressionTable");

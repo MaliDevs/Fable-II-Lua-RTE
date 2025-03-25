@@ -1,0 +1,3 @@
+AddIntellisense("ActivateAllSalesAndShortages", "Function", "Function in SalesAndShortages.", "ActivateAllSalesAndShortages()", "SalesAndShortages", "SalesAndShortages.ActivateAllSalesAndShortages");
+AddIntellisense("ActivateSaleOrShortage", "Function", "Function in SalesAndShortages.", "ActivateSaleOrShortage()", "SalesAndShortages", "SalesAndShortages.ActivateSaleOrShortage");
+AddIntellisense("SetSalesAndShortagesAndIncomeIconAcitve", "Function", "Function in SalesAndShortages.", "SetSalesAndShortagesAndIncomeIconAcitve()", "SalesAndShortages", "SalesAndShortages.SetSalesAndShortagesAndIncomeIconAcitve");

@@ -1,0 +1,17 @@
+AddIntellisense("ClearBlocking", "Function", "Function in Block.", "ClearBlocking()", "Block", "Block.ClearBlocking");
+AddIntellisense("CompletedBlock", "Function", "Function in Block.", "CompletedBlock()", "Block", "Block.CompletedBlock");
+AddIntellisense("GetBlockingIdleTime", "Function", "Function in Block.", "GetBlockingIdleTime()", "Block", "Block.GetBlockingIdleTime");
+AddIntellisense("GetBlockType", "Function", "Function in Block.", "GetBlockType()", "Block", "Block.GetBlockType");
+AddIntellisense("GetLastCompletedBlockTime", "Function", "Function in Block.", "GetLastCompletedBlockTime()", "Block", "Block.GetLastCompletedBlockTime");
+AddIntellisense("GetLastCompletedBlockType", "Function", "Function in Block.", "GetLastCompletedBlockType()", "Block", "Block.GetLastCompletedBlockType");
+AddIntellisense("GetNumHitsExcludingTypeInTime", "Function", "Function in Block.", "GetNumHitsExcludingTypeInTime()", "Block", "Block.GetNumHitsExcludingTypeInTime");
+AddIntellisense("GetNumHitsOfAnyTypeInTime", "Function", "Function in Block.", "GetNumHitsOfAnyTypeInTime()", "Block", "Block.GetNumHitsOfAnyTypeInTime");
+AddIntellisense("GetNumHitsOfTypeInTime", "Function", "Function in Block.", "GetNumHitsOfTypeInTime()", "Block", "Block.GetNumHitsOfTypeInTime");
+AddIntellisense("GetShotsEvadeType", "Function", "Function in Block.", "GetShotsEvadeType()", "Block", "Block.GetShotsEvadeType");
+AddIntellisense("GetSpellsEvadeType", "Function", "Function in Block.", "GetSpellsEvadeType()", "Block", "Block.GetSpellsEvadeType");
+AddIntellisense("IsAvailable", "Function", "Function in Block.", "IsAvailable()", "Block", "Block.IsAvailable");
+AddIntellisense("IsBlocking", "Function", "Function in Block.", "IsBlocking()", "Block", "Block.IsBlocking");
+AddIntellisense("SetAIShotEvadeToType", "Function", "Function in Block.", "SetAIShotEvadeToType()", "Block", "Block.SetAIShotEvadeToType");
+AddIntellisense("SetAISpellEvadeToType", "Function", "Function in Block.", "SetAISpellEvadeToType()", "Block", "Block.SetAISpellEvadeToType");
+AddIntellisense("SetBlockingToType", "Function", "Function in Block.", "SetBlockingToType()", "Block", "Block.SetBlockingToType");
+AddIntellisense("SetDodgeAnimSet", "Function", "Function in Block.", "SetDodgeAnimSet()", "Block", "Block.SetDodgeAnimSet");

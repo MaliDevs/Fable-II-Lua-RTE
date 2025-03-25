@@ -1,0 +1,10 @@
+AddIntellisense("GetActivatedEntityMessages", "Function", "Function in MessageEvents.", "GetActivatedEntityMessages()", "MessageEvents", "MessageEvents.GetActivatedEntityMessages");
+AddIntellisense("GetAllMessages", "Function", "Function in MessageEvents.", "GetAllMessages()", "MessageEvents", "MessageEvents.GetAllMessages");
+AddIntellisense("GetDestroyedMessageFromEntity", "Function", "Function in MessageEvents.", "GetDestroyedMessageFromEntity()", "MessageEvents", "MessageEvents.GetDestroyedMessageFromEntity");
+AddIntellisense("GetMostRecentMessageID", "Function", "Function in MessageEvents.", "GetMostRecentMessageID()", "MessageEvents", "MessageEvents.GetMostRecentMessageID");
+AddIntellisense("IsMessagePosted", "Function", "Function in MessageEvents.", "IsMessagePosted()", "MessageEvents", "MessageEvents.IsMessagePosted");
+AddIntellisense("IsMessageSentBy", "Function", "Function in MessageEvents.", "IsMessageSentBy()", "MessageEvents", "MessageEvents.IsMessageSentBy");
+AddIntellisense("IsMessageSentTo", "Function", "Function in MessageEvents.", "IsMessageSentTo()", "MessageEvents", "MessageEvents.IsMessageSentTo");
+AddIntellisense("LoadMessage", "Function", "Function in MessageEvents.", "LoadMessage()", "MessageEvents", "MessageEvents.LoadMessage");
+AddIntellisense("PostMessage", "Function", "Function in MessageEvents.", "PostMessage()", "MessageEvents", "MessageEvents.PostMessage");
+AddIntellisense("RegisterEntityNameForActivationMessages", "Function", "Function in MessageEvents.", "RegisterEntityNameForActivationMessages()", "MessageEvents", "MessageEvents.RegisterEntityNameForActivationMessages");

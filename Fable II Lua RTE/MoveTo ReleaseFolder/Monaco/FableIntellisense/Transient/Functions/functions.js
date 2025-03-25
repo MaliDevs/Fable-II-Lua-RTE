@@ -1,0 +1,11 @@
+AddIntellisense("CanLeaveRegion", "Function", "Function in Transient.", "CanLeaveRegion()", "Transient", "Transient.CanLeaveRegion");
+AddIntellisense("GetECType", "Function", "Function in Transient.", "GetECType()", "Transient", "Transient.GetECType");
+AddIntellisense("GetPreferredExit", "Function", "Function in Transient.", "GetPreferredExit()", "Transient", "Transient.GetPreferredExit");
+AddIntellisense("IsAvailable", "Function", "Function in Transient.", "IsAvailable()", "Transient", "Transient.IsAvailable");
+AddIntellisense("IsTimeToLeave", "Function", "Function in Transient.", "IsTimeToLeave()", "Transient", "Transient.IsTimeToLeave");
+AddIntellisense("IsToUseSpecificExit", "Function", "Function in Transient.", "IsToUseSpecificExit()", "Transient", "Transient.IsToUseSpecificExit");
+AddIntellisense("SetAsAssassinationTarget", "Function", "Function in Transient.", "SetAsAssassinationTarget()", "Transient", "Transient.SetAsAssassinationTarget");
+AddIntellisense("SetCanLeaveRegion", "Function", "Function in Transient.", "SetCanLeaveRegion()", "Transient", "Transient.SetCanLeaveRegion");
+AddIntellisense("SetHoursUntilTimeToLeave", "Function", "Function in Transient.", "SetHoursUntilTimeToLeave()", "Transient", "Transient.SetHoursUntilTimeToLeave");
+AddIntellisense("SetPreferredExit", "Function", "Function in Transient.", "SetPreferredExit()", "Transient", "Transient.SetPreferredExit");
+AddIntellisense("SwitchTransientMesh", "Function", "Function in Transient.", "SwitchTransientMesh()", "Transient", "Transient.SwitchTransientMesh");

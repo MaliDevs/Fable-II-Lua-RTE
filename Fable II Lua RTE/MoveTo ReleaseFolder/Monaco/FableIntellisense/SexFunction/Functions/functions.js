@@ -1,0 +1,12 @@
+AddIntellisense("Begin", "Function", "Function in SexFunction.", "Begin()", "SexFunction", "SexFunction.Begin");
+AddIntellisense("FixupFrameLastRans", "Function", "Function in SexFunction.", "FixupFrameLastRans()", "SexFunction", "SexFunction.FixupFrameLastRans");
+AddIntellisense("GetReaction", "Function", "Function in SexFunction.", "GetReaction()", "SexFunction", "SexFunction.GetReaction");
+AddIntellisense("IsHavingSex", "Function", "Function in SexFunction.", "IsHavingSex()", "SexFunction", "SexFunction.IsHavingSex");
+AddIntellisense("IsInPartnerList", "Function", "Function in SexFunction.", "IsInPartnerList()", "SexFunction", "SexFunction.IsInPartnerList");
+AddIntellisense("IsSexPartner", "Function", "Function in SexFunction.", "IsSexPartner()", "SexFunction", "SexFunction.IsSexPartner");
+AddIntellisense("IsTrackedPartner", "Function", "Function in SexFunction.", "IsTrackedPartner()", "SexFunction", "SexFunction.IsTrackedPartner");
+AddIntellisense("ModifyStats", "Function", "Function in SexFunction.", "ModifyStats()", "SexFunction", "SexFunction.ModifyStats");
+AddIntellisense("PostChildbirthEffects", "Function", "Function in SexFunction.", "PostChildbirthEffects()", "SexFunction", "SexFunction.PostChildbirthEffects");
+AddIntellisense("PostDeeds", "Function", "Function in SexFunction.", "PostDeeds()", "SexFunction", "SexFunction.PostDeeds");
+AddIntellisense("RegisterPartner", "Function", "Function in SexFunction.", "RegisterPartner()", "SexFunction", "SexFunction.RegisterPartner");
+AddIntellisense("RemovePartner", "Function", "Function in SexFunction.", "RemovePartner()", "SexFunction", "SexFunction.RemovePartner");

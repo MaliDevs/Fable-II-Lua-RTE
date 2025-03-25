@@ -1,0 +1,1 @@
+AddIntellisense("Update", "Function", "Function in CrucibleChestLeavesPlayerInInteractionMode.", "Update()", "CrucibleChestLeavesPlayerInInteractionMode", "CrucibleChestLeavesPlayerInInteractionMode.Update");

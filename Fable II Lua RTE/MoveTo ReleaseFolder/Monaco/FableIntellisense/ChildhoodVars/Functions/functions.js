@@ -1,0 +1,17 @@
+AddIntellisense("FoundWarrant", "Function", "Function in ChildhoodVars.", "FoundWarrant()", "ChildhoodVars", "ChildhoodVars.FoundWarrant");
+AddIntellisense("GiveGold", "Function", "Function in ChildhoodVars.", "GiveGold()", "ChildhoodVars", "ChildhoodVars.GiveGold");
+AddIntellisense("HideCounters", "Function", "Function in ChildhoodVars.", "HideCounters()", "ChildhoodVars", "ChildhoodVars.HideCounters");
+AddIntellisense("InitCounter", "Function", "Function in ChildhoodVars.", "InitCounter()", "ChildhoodVars", "ChildhoodVars.InitCounter");
+AddIntellisense("InvalidateRoseState", "Function", "Function in ChildhoodVars.", "InvalidateRoseState()", "ChildhoodVars", "ChildhoodVars.InvalidateRoseState");
+AddIntellisense("LockAllDoors", "Function", "Function in ChildhoodVars.", "LockAllDoors()", "ChildhoodVars", "ChildhoodVars.LockAllDoors");
+AddIntellisense("PayForBox", "Function", "Function in ChildhoodVars.", "PayForBox()", "ChildhoodVars", "ChildhoodVars.PayForBox");
+AddIntellisense("RequestRoseState", "Function", "Function in ChildhoodVars.", "RequestRoseState()", "ChildhoodVars", "ChildhoodVars.RequestRoseState");
+AddIntellisense("SetTargetableAllBeds", "Function", "Function in ChildhoodVars.", "SetTargetableAllBeds()", "ChildhoodVars", "ChildhoodVars.SetTargetableAllBeds");
+AddIntellisense("ShowCounters", "Function", "Function in ChildhoodVars.", "ShowCounters()", "ChildhoodVars", "ChildhoodVars.ShowCounters");
+AddIntellisense("SkipToBuyMusicBox", "Function", "Function in ChildhoodVars.", "SkipToBuyMusicBox()", "ChildhoodVars", "ChildhoodVars.SkipToBuyMusicBox");
+AddIntellisense("SkipToLL", "Function", "Function in ChildhoodVars.", "SkipToLL()", "ChildhoodVars", "ChildhoodVars.SkipToLL");
+AddIntellisense("SkipToLL2", "Function", "Function in ChildhoodVars.", "SkipToLL2()", "ChildhoodVars", "ChildhoodVars.SkipToLL2");
+AddIntellisense("SkipToLuciensStudy", "Function", "Function in ChildhoodVars.", "SkipToLuciensStudy()", "ChildhoodVars", "ChildhoodVars.SkipToLuciensStudy");
+AddIntellisense("SkipToWino", "Function", "Function in ChildhoodVars.", "SkipToWino()", "ChildhoodVars", "ChildhoodVars.SkipToWino");
+AddIntellisense("TableContains", "Function", "Function in ChildhoodVars.", "TableContains()", "ChildhoodVars", "ChildhoodVars.TableContains");
+AddIntellisense("TakeGold", "Function", "Function in ChildhoodVars.", "TakeGold()", "ChildhoodVars", "ChildhoodVars.TakeGold");

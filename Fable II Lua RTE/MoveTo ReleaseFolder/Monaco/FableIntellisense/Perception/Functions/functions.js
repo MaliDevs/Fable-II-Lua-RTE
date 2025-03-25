@@ -1,0 +1,11 @@
+AddIntellisense("CanDirectlySee", "Function", "Function in Perception.", "CanDirectlySee()", "Perception", "Perception.CanDirectlySee");
+AddIntellisense("CanHear", "Function", "Function in Perception.", "CanHear()", "Perception", "Perception.CanHear");
+AddIntellisense("GetAttentionSpan", "Function", "Function in Perception.", "GetAttentionSpan()", "Perception", "Perception.GetAttentionSpan");
+AddIntellisense("GetECType", "Function", "Function in Perception.", "GetECType()", "Perception", "Perception.GetECType");
+AddIntellisense("GetNearestThreatForFlee", "Function", "Function in Perception.", "GetNearestThreatForFlee()", "Perception", "Perception.GetNearestThreatForFlee");
+AddIntellisense("GetPerceptionDistance", "Function", "Function in Perception.", "GetPerceptionDistance()", "Perception", "Perception.GetPerceptionDistance");
+AddIntellisense("IsAvailable", "Function", "Function in Perception.", "IsAvailable()", "Perception", "Perception.IsAvailable");
+AddIntellisense("IsAwareOf", "Function", "Function in Perception.", "IsAwareOf()", "Perception", "Perception.IsAwareOf");
+AddIntellisense("IsVisibleFrom", "Function", "Function in Perception.", "IsVisibleFrom()", "Perception", "Perception.IsVisibleFrom");
+AddIntellisense("MakeAwareOf", "Function", "Function in Perception.", "MakeAwareOf()", "Perception", "Perception.MakeAwareOf");
+AddIntellisense("MakePermanentlyAwareOf", "Function", "Function in Perception.", "MakePermanentlyAwareOf()", "Perception", "Perception.MakePermanentlyAwareOf");

@@ -1,0 +1,9 @@
+AddIntellisense("AttemptFastWeaponSwap", "Function", "Function in CombatStates.", "AttemptFastWeaponSwap()", "CombatStates", "CombatStates.AttemptFastWeaponSwap");
+AddIntellisense("CheckForBetterTarget", "Function", "Function in CombatStates.", "CheckForBetterTarget()", "CombatStates", "CombatStates.CheckForBetterTarget");
+AddIntellisense("FaceTarget", "Function", "Function in CombatStates.", "FaceTarget()", "CombatStates", "CombatStates.FaceTarget");
+AddIntellisense("GetPercentChanceToBlock", "Function", "Function in CombatStates.", "GetPercentChanceToBlock()", "CombatStates", "CombatStates.GetPercentChanceToBlock");
+AddIntellisense("MoveToFormationPos", "Function", "Function in CombatStates.", "MoveToFormationPos()", "CombatStates", "CombatStates.MoveToFormationPos");
+AddIntellisense("NonFormationKeepDistanceMovement", "Function", "Function in CombatStates.", "NonFormationKeepDistanceMovement()", "CombatStates", "CombatStates.NonFormationKeepDistanceMovement");
+AddIntellisense("RedBanditQuickCastFire", "Function", "Function in CombatStates.", "RedBanditQuickCastFire()", "CombatStates", "CombatStates.RedBanditQuickCastFire");
+AddIntellisense("StiltWalkerStop", "Function", "Function in CombatStates.", "StiltWalkerStop()", "CombatStates", "CombatStates.StiltWalkerStop");
+AddIntellisense("UpdateWeapon", "Function", "Function in CombatStates.", "UpdateWeapon()", "CombatStates", "CombatStates.UpdateWeapon");

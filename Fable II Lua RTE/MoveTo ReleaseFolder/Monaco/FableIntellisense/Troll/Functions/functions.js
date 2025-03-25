@@ -1,0 +1,13 @@
+AddIntellisense("GetCurrentHealth", "Function", "Function in Troll.", "GetCurrentHealth()", "Troll", "Troll.GetCurrentHealth");
+AddIntellisense("GetLastHitTime", "Function", "Function in Troll.", "GetLastHitTime()", "Troll", "Troll.GetLastHitTime");
+AddIntellisense("GetNumberOfWeakPoints", "Function", "Function in Troll.", "GetNumberOfWeakPoints()", "Troll", "Troll.GetNumberOfWeakPoints");
+AddIntellisense("GetOffsetForPoundAttack", "Function", "Function in Troll.", "GetOffsetForPoundAttack()", "Troll", "Troll.GetOffsetForPoundAttack");
+AddIntellisense("GetOriginalHealth", "Function", "Function in Troll.", "GetOriginalHealth()", "Troll", "Troll.GetOriginalHealth");
+AddIntellisense("GetPosInModelSpace", "Function", "Function in Troll.", "GetPosInModelSpace()", "Troll", "Troll.GetPosInModelSpace");
+AddIntellisense("GetTrollStatus", "Function", "Function in Troll.", "GetTrollStatus()", "Troll", "Troll.GetTrollStatus");
+AddIntellisense("IsAvailable", "Function", "Function in Troll.", "IsAvailable()", "Troll", "Troll.IsAvailable");
+AddIntellisense("IsInvulnerable", "Function", "Function in Troll.", "IsInvulnerable()", "Troll", "Troll.IsInvulnerable");
+AddIntellisense("IsToMove", "Function", "Function in Troll.", "IsToMove()", "Troll", "Troll.IsToMove");
+AddIntellisense("MakeMeLevelSave", "Function", "Function in Troll.", "MakeMeLevelSave()", "Troll", "Troll.MakeMeLevelSave");
+AddIntellisense("SetAsMoved", "Function", "Function in Troll.", "SetAsMoved()", "Troll", "Troll.SetAsMoved");
+AddIntellisense("SetInvulnerable", "Function", "Function in Troll.", "SetInvulnerable()", "Troll", "Troll.SetInvulnerable");

@@ -1,0 +1,9 @@
+AddIntellisense("ClearIdleLooking", "Function", "Function in Look.", "ClearIdleLooking()", "Look", "Look.ClearIdleLooking");
+AddIntellisense("DisableLookingWithPriorityLessThan", "Function", "Function in Look.", "DisableLookingWithPriorityLessThan()", "Look", "Look.DisableLookingWithPriorityLessThan");
+AddIntellisense("GetLookAtTarget", "Function", "Function in Look.", "GetLookAtTarget()", "Look", "Look.GetLookAtTarget");
+AddIntellisense("HasLookAtTarget", "Function", "Function in Look.", "HasLookAtTarget()", "Look", "Look.HasLookAtTarget");
+AddIntellisense("IsAvailable", "Function", "Function in Look.", "IsAvailable()", "Look", "Look.IsAvailable");
+AddIntellisense("IsLookingAtTarget", "Function", "Function in Look.", "IsLookingAtTarget()", "Look", "Look.IsLookingAtTarget");
+AddIntellisense("LookAtEntity", "Function", "Function in Look.", "LookAtEntity()", "Look", "Look.LookAtEntity");
+AddIntellisense("LookAtPos", "Function", "Function in Look.", "LookAtPos()", "Look", "Look.LookAtPos");
+AddIntellisense("SetUseIdleLooking", "Function", "Function in Look.", "SetUseIdleLooking()", "Look", "Look.SetUseIdleLooking");

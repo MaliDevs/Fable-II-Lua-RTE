@@ -1,0 +1,1 @@
+AddIntellisense("SoberNonScriptedCharacterFilter", "Function", "Function in QO650_WestcliffParty.", "SoberNonScriptedCharacterFilter()", "QO650_WestcliffParty", "QO650_WestcliffParty.SoberNonScriptedCharacterFilter");

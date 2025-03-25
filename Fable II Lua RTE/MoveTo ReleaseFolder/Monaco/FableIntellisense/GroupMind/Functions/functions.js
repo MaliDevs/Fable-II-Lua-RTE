@@ -1,0 +1,9 @@
+AddIntellisense("AddEntity", "Function", "Function in GroupMind.", "AddEntity()", "GroupMind", "GroupMind.AddEntity");
+AddIntellisense("CleanUp", "Function", "Function in GroupMind.", "CleanUp()", "GroupMind", "GroupMind.CleanUp");
+AddIntellisense("CreateEntityInfo", "Function", "Function in GroupMind.", "CreateEntityInfo()", "GroupMind", "GroupMind.CreateEntityInfo");
+AddIntellisense("DebugDrawing", "Function", "Function in GroupMind.", "DebugDrawing()", "GroupMind", "GroupMind.DebugDrawing");
+AddIntellisense("GetState", "Function", "Function in GroupMind.", "GetState()", "GroupMind", "GroupMind.GetState");
+AddIntellisense("New", "Function", "Function in GroupMind.", "New()", "GroupMind", "GroupMind.New");
+AddIntellisense("RemoveEntity", "Function", "Function in GroupMind.", "RemoveEntity()", "GroupMind", "GroupMind.RemoveEntity");
+AddIntellisense("SetState", "Function", "Function in GroupMind.", "SetState()", "GroupMind", "GroupMind.SetState");
+AddIntellisense("Update", "Function", "Function in GroupMind.", "Update()", "GroupMind", "GroupMind.Update");

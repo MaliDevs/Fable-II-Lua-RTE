@@ -1,0 +1,17 @@
+AddIntellisense("AddDiscountReward", "Function", "Function in NPCRewardGiver.", "AddDiscountReward()", "NPCRewardGiver", "NPCRewardGiver.AddDiscountReward");
+AddIntellisense("AddGiftReward", "Function", "Function in NPCRewardGiver.", "AddGiftReward()", "NPCRewardGiver", "NPCRewardGiver.AddGiftReward");
+AddIntellisense("AddQuestReward", "Function", "Function in NPCRewardGiver.", "AddQuestReward()", "NPCRewardGiver", "NPCRewardGiver.AddQuestReward");
+AddIntellisense("GetRequirementsText", "Function", "Function in NPCRewardGiver.", "GetRequirementsText()", "NPCRewardGiver", "NPCRewardGiver.GetRequirementsText");
+AddIntellisense("GetRewardHint", "Function", "Function in NPCRewardGiver.", "GetRewardHint()", "NPCRewardGiver", "NPCRewardGiver.GetRewardHint");
+AddIntellisense("GivePlayerReward", "Function", "Function in NPCRewardGiver.", "GivePlayerReward()", "NPCRewardGiver", "NPCRewardGiver.GivePlayerReward");
+AddIntellisense("GiveQuestReward", "Function", "Function in NPCRewardGiver.", "GiveQuestReward()", "NPCRewardGiver", "NPCRewardGiver.GiveQuestReward");
+AddIntellisense("HasAnyRewardsLeft", "Function", "Function in NPCRewardGiver.", "HasAnyRewardsLeft()", "NPCRewardGiver", "NPCRewardGiver.HasAnyRewardsLeft");
+AddIntellisense("IsAvailable", "Function", "Function in NPCRewardGiver.", "IsAvailable()", "NPCRewardGiver", "NPCRewardGiver.IsAvailable");
+AddIntellisense("IsQuestRewardAvailable", "Function", "Function in NPCRewardGiver.", "IsQuestRewardAvailable()", "NPCRewardGiver", "NPCRewardGiver.IsQuestRewardAvailable");
+AddIntellisense("IsReadyToGiveLoveReward", "Function", "Function in NPCRewardGiver.", "IsReadyToGiveLoveReward()", "NPCRewardGiver", "NPCRewardGiver.IsReadyToGiveLoveReward");
+AddIntellisense("IsReadyToGiveReward", "Function", "Function in NPCRewardGiver.", "IsReadyToGiveReward()", "NPCRewardGiver", "NPCRewardGiver.IsReadyToGiveReward");
+AddIntellisense("SetCanGiveRewards", "Function", "Function in NPCRewardGiver.", "SetCanGiveRewards()", "NPCRewardGiver", "NPCRewardGiver.SetCanGiveRewards");
+AddIntellisense("StillHasFearRewardToGive", "Function", "Function in NPCRewardGiver.", "StillHasFearRewardToGive()", "NPCRewardGiver", "NPCRewardGiver.StillHasFearRewardToGive");
+AddIntellisense("StillMeetsQuestRewardRequirements", "Function", "Function in NPCRewardGiver.", "StillMeetsQuestRewardRequirements()", "NPCRewardGiver", "NPCRewardGiver.StillMeetsQuestRewardRequirements");
+AddIntellisense("TakeAwayQuestReward", "Function", "Function in NPCRewardGiver.", "TakeAwayQuestReward()", "NPCRewardGiver", "NPCRewardGiver.TakeAwayQuestReward");
+AddIntellisense("UnlockAllQuestRewards", "Function", "Function in NPCRewardGiver.", "UnlockAllQuestRewards()", "NPCRewardGiver", "NPCRewardGiver.UnlockAllQuestRewards");

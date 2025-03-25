@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+  <title>Monaco Editor</title>
+  <style>
+    html,
+    body,
+    #editor {
+      width: 100%;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="editor"></div>
+
+  <script>
+    window.require = { paths: { 'vs': 'vs' } };
+    const script = document.createElement('script');
+    script.src = 'vs/loader.js';
+    script.onload = function () {
+      require(['vs/editor/editor.main'], function () {
+
+        let IntelliSenseEntries = {}; // Stores all completions
+
+        AddIntellisense = function (l, k, d, i, p = null, f = null, s = null, r = null, ir = null) {
+          let completionKind = monaco.languages.CompletionItemKind[k] || monaco.languages.CompletionItemKind.Variable;
+
+          let entry = {
+            label: l,
+            kind: completionKind,
+            detail: d || "",
+            insertText: i || l,
+            parent: p || null,
+            filterText: f || l,
+            sortText: s || l,
+            range: r || undefined,
+            insertTextRules: ir || monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet
+          };
+
+          // 🔹 Ensure all parent levels exist before adding this child
+          ensureParentExists(p);
+
+          // 🔹 If this entry is a child, add it to the correct parent's children
+          if (p) {
+            if (!IntelliSenseEntries[p].children) {
+              IntelliSenseEntries[p].children = [];
+            }
+            IntelliSenseEntries[p].children.push(entry);
+          } else {
+            IntelliSenseEntries[l] = { ...entry, children: [] }; // Ensure top-level entries have a children array
+          }
+        };
+
+        // 🔹 Ensures all ancestor levels exist (Debug → Debug.Mali → Debug.Mali.Test)
+        function ensureParentExists(parent) {
+          if (!parent) return; // No parent, nothing to do
+
+          let parentLevels = parent.split("."); // Split nested levels
+          let currentLevel = "";
+
+          for (let i = 0; i < parentLevels.length; i++) {
+            currentLevel = i === 0 ? parentLevels[i] : currentLevel + "." + parentLevels[i];
+
+            if (!IntelliSenseEntries[currentLevel]) {
+              //console.warn(`Parent '${currentLevel}' missing. Creating it.`);
+              IntelliSenseEntries[currentLevel] = {
+                label: parentLevels[i], // Store only the last part of the namespace
+                kind: monaco.languages.CompletionItemKind.Module,
+                insertText: parentLevels[i], // Suggest only the last part
+                detail: "Namespace",
+                parent: i > 0 ? parentLevels.slice(0, i).join(".") : null, // Correctly track true parent
+                children: []
+              };
+            }
+          }
+        }
+
+        // 🔹 Register IntelliSense Items Correctly
+        async function PushIntellisense() {
+
+          const basePath = "http://localhost:8080/FableIntellisense";
+
+          try {
+            // Fetch the list of JS files
+            const response = await fetch(basePath);
+            if (!response.ok) throw new Error(`Failed to load directory: ${basePath}`);
+
+            const folders = await response.json();
+            if (!Array.isArray(folders) || folders.length === 0) {
+              console.warn("No folders found in FableIntellisense.");
+              return;
+            }
+
+            for (const folder of folders) {
+              let mainScriptPath = `${basePath}/${folder}/${folder}.js`;
+              let functionsScriptPath = `${basePath}/${folder}/Functions/functions.js`;
+
+              // First fetch: /folderName/folderName.js
+              console.log(`Fetching: ${mainScriptPath}`);
+              const mainResponse = await fetch(mainScriptPath);
+              if (mainResponse.ok) {
+                const mainScriptText = await mainResponse.text();
+                const mainScriptTag = document.createElement("script");
+                mainScriptTag.textContent = mainScriptText;
+                document.body.appendChild(mainScriptTag);
+              } else {
+                console.warn(`Main script not found: ${mainScriptPath}`);
+              }
+
+              // Second fetch: /folderName/Functions/functions.js
+              console.log(`Fetching: ${functionsScriptPath}`);
+              const functionsResponse = await fetch(functionsScriptPath);
+              if (functionsResponse.ok) {
+                const functionsScriptText = await functionsResponse.text();
+                const functionsScriptTag = document.createElement("script");
+                functionsScriptTag.textContent = functionsScriptText;
+                document.body.appendChild(functionsScriptTag);
+              } else {
+                console.warn(`Functions script not found: ${functionsScriptPath}`);
+              }
+            }
+          } catch (error) {
+            console.error("Error fetching JS files:", error);
+          }
+        }
+        PushIntellisense()
+
+        // 🔹 Monaco Auto-Complete
+        monaco.languages.registerCompletionItemProvider('lua', {
+          triggerCharacters: ['.'], // Trigger autocomplete on dot (.)
+          provideCompletionItems: function (model, position) {
+            let textBeforeCursor = model.getValueInRange({
+              startLineNumber: position.lineNumber,
+              startColumn: 1,
+              endLineNumber: position.lineNumber,
+              endColumn: position.column
+            }).trim();
+
+            //console.log("Current Line Text:", textBeforeCursor);
+
+            let suggestions = [];
+
+            // 🔹 If no dot exists, suggest only top-level items
+            if (!textBeforeCursor.includes(".")) {
+              suggestions = Object.values(IntelliSenseEntries).filter(entry => !entry.parent);
+            } else {
+              // 🔹 Extract the last typed identifier (e.g., "Debug.")
+              let words = textBeforeCursor.split(/\s+/);
+              let lastTyped = words[words.length - 1];
+
+              if (lastTyped.endsWith(".")) {
+                let parentName = lastTyped.slice(0, -1); // Remove trailing dot
+                //console.log("Detected Parent Namespace:", parentName);
+
+                // 🔹 Suggest only direct children (not deep ones)
+                if (IntelliSenseEntries[parentName]) {
+                  suggestions = IntelliSenseEntries[parentName].children || [];
+                }
+              }
+            }
+
+            return { suggestions };
+          }
+        });
+
+
+
+
+        monaco.editor.create(document.getElementById('editor'), {
+          value: "print('Hello, Monaco!')",
+          language: "lua",
+          theme: "vs-dark"
+        });
+      });
+    };
+    document.body.appendChild(script);
+  </script>
+</body>
+
+</html>
